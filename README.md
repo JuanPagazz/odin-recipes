@@ -1,23 +1,28 @@
 # odin-recipes
-This is a project just to reaffirm my knowledge in html and css
+
+This is a project to reaffirm my knowledge of HTML and CSS.
 
 # Demo
 
-------
+---
 
 # Structure
 
-odin recipes/
-├── /assets         # Images
-├── /recipes
-│   ├──sushi.html   # Sushi recipe
-├── index.html      # Main page
-├── README.md       # Repository documentation
+```text
+odin-recipes/
+├── assets/                 # Images
+├── recipes/
+│   └── sushi.html          # Sushi recipe
+├── index.html              # Main page
+├── README.md               # Repository documentation
+```
 
 # Technologies
--Html
--git & github
 
-# Aplied knowledge
--Html (Links, List types, HTML Boilerplate, Images, Text, etc...)
--git & github (Commits, Push, Project organization, README, etc...)
+- HTML
+- Git & GitHub
+
+# Applied knowledge
+
+- HTML (links, list types, HTML boilerplate, images, text, etc.)
+- Git & GitHub (commits, push, project organization, README, etc.)
